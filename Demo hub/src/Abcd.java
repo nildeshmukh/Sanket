@@ -7,9 +7,9 @@ public class Abcd {
 		System.out.println("Dempo hub projkect");
 		
 		
-		System.out.println("add some method");
+		System.out.println("add some method addition");
 		
-		System.out.println("rahul changes");
+		
 		
 
 	}
