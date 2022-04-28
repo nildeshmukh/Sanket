@@ -5,7 +5,10 @@ public class Abcd {
 	{
 		
 		System.out.println("Dempo hub projkect");
-		// TODO Auto-generated method stub
+		
+		
+		System.out.println("add some method");
+		
 
 	}
 
